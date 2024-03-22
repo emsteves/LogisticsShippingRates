@@ -1,0 +1,18 @@
+Contribution Guidelines
+Welcome Contributors!
+Thank you for considering contributing to this repostory. This document outlines the guidelines.
+
+Code Style:
+Please follow the code style used, as this aids sustenability and enables easy readability.
+
+Documentation:
+Ensure that your code are well-documented. Add comments where neccessary.
+
+Testing:
+Test your changes before before requesting a pull request. Include relevant test cases and make sure the test pass.
+
+Issue Tracker:
+Check the issue tracker for any open issues or feature request. If you are working on something, comment appropriately.
+
+Code Review:
+All codes goes through a code review process. Please be open to reviews.
